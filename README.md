@@ -2,225 +2,144 @@
 
 # TelaLink
 
-### Mostre sua tela com um link.
+**Mostre sua tela com um link.**
 
 Compartilhe sua tela, janela ou aplicativo em poucos segundos.  
-Quem recebe o link assiste direto pelo navegador — sem VPN e sem configurações complicadas.
+Quem recebe o link assiste diretamente pelo navegador.
 
-[🌐 Acessar o site](https://telalink.fun) • [📥 Baixar versão mais recente](../../releases/latest) • [📝 Histórico de updates](https://telalink.fun/updates)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Release](https://img.shields.io/github/v/release/UserWhare/telalink-download?style=for-the-badge&label=Vers%C3%A3o)
+![Downloads](https://img.shields.io/github/downloads/UserWhare/telalink-download/total?style=for-the-badge&label=Downloads)
+
+**[Acessar o site](https://telalink.fun)** • **[Baixar para Windows](https://github.com/UserWhare/telalink-download/releases/latest/download/TelaLink-Windows-Portable.zip)** • **[Updates](https://telalink.fun/updates)**
 
 </div>
 
 ---
 
-## ✨ TelaLink 1.0.0
+Este repositório é o canal público de distribuição do **TelaLink para Windows**.  
+Os arquivos do aplicativo são publicados através das [Releases](../../releases).
 
-O TelaLink 1.0 marca uma nova fase do projeto, com identidade visual renovada, novo aplicativo para Windows e melhorias em toda a experiência de transmissão.
+## Download
 
-### Principais novidades
+Baixe sempre a versão mais recente:
 
-- Novo visual do TelaLink em preto e roxo
-- Aplicativo Windows totalmente redesenhado
-- Nova Home, Dashboard, Admin e página de Status
-- Nova identidade visual e novo ícone
-- Links de transmissão mais curtos no formato `telalink.fun/live/abc12`
+**[TelaLink-Windows-Portable.zip](https://github.com/UserWhare/telalink-download/releases/latest/download/TelaLink-Windows-Portable.zip)**
+
+Depois:
+
+1. Extraia todo o conteúdo do arquivo `.zip`
+2. Abra a pasta extraída
+3. Execute `TelaLink.exe`
+
+> Não mova somente o `TelaLink.exe` para fora da pasta. Os demais arquivos fazem parte do aplicativo e são necessários para o funcionamento correto.
+
+O TelaLink é portátil e não exige instalação tradicional.
+
+## Recursos
+
+- Compartilhamento de tela, janela ou aplicativo
+- Links curtos no formato `telalink.fun/live/abc12`
 - Transmissão pelo aplicativo ou diretamente pelo navegador
-- Escolha entre tela inteira, janela ou aplicativo
-- Áudio do computador e microfone controlados separadamente
-- Tratamento melhor quando o microfone não está disponível ou sem permissão
-- Chat temporário durante as transmissões
-- Aba de participantes para ver quem está assistindo
+- Controle separado de áudio do computador e microfone
+- Perfis de qualidade e informações da transmissão em tempo real
+- Chat temporário durante a transmissão
+- Lista de participantes
 - Controle de volume para espectadores
-- Melhor reconexão em oscilações de rede
-- Painel de dispositivos e configurações reorganizado
-- Sistema de atualização obrigatória para versões antigas
-- Opção **Procurar atualizações** dentro do aplicativo
-- Bot do Discord revisado com comandos e embeds atualizados
-- Melhorias gerais de estabilidade, segurança e desempenho
+- Reconexão em oscilações de rede
+- Vinculação e gerenciamento de dispositivos
+- Verificação de compatibilidade e atualização de versões antigas
+- Integração com Discord
 
----
-
-## 📥 Como instalar no Windows
-
-1. Acesse a página de [Releases](../../releases/latest)
-2. Baixe o arquivo **`TelaLink-Windows-Portable.zip`**
-3. Extraia todo o conteúdo do `.zip`
-4. Abra a pasta extraída
-5. Execute o **`TelaLink.exe`**
-
-> **Importante:** não mova somente o `TelaLink.exe` para fora da pasta. Os outros arquivos também fazem parte do aplicativo e são necessários para o funcionamento correto.
-
-O TelaLink é portátil e não precisa de instalação tradicional.
-
----
-
-## 🚀 Como usar
+## Como usar
 
 1. Entre na sua conta pelo Discord ou por e-mail e senha
 2. Abra o TelaLink pelo aplicativo ou navegador
-3. Escolha a tela, janela ou aplicativo que deseja compartilhar
+3. Escolha o que deseja compartilhar
 4. Configure qualidade, áudio do computador e microfone
 5. Inicie a transmissão
 6. Copie o link gerado
-7. Envie o link para quem você quiser
+7. Envie o link para quem quiser
 
-Quem receber o link pode assistir diretamente pelo navegador.
+Quem recebe o link pode assistir diretamente pelo navegador.
 
-Exemplo:
+## Aplicativo para Windows
 
-```text
-https://telalink.fun/live/abc12
-```
-
----
-
-## 🖥️ Aplicativo para Windows
-
-O aplicativo é a experiência recomendada para quem quer mais estabilidade e controle.
-
-Ele oferece:
+O aplicativo oferece a experiência mais completa para transmissão:
 
 - Captura de tela e janelas
-- Áudio completo do Windows
-- Controle separado do microfone
+- Áudio do Windows
+- Microfone independente
 - Perfis de qualidade
 - Gerenciamento do dispositivo vinculado
 - Informações da transmissão em tempo real
 - Busca manual por atualizações
-- Aviso de atualização obrigatória quando necessário
 
----
+## Transmissão pelo navegador
 
-## 🌐 Transmissão pelo navegador
+Também é possível transmitir sem instalar o aplicativo.
 
-Também é possível iniciar uma transmissão sem instalar o aplicativo.
-
-O navegador permite escolher:
+Dependendo do navegador, você pode compartilhar:
 
 - Tela inteira
 - Janela
 - Aba do navegador
 
-No Chrome e Edge, abas podem compartilhar o próprio áudio quando a opção **Compartilhar áudio** estiver ativada.
+No Chrome e Edge, uma aba pode compartilhar o próprio áudio quando a opção **Compartilhar áudio** estiver ativada.
 
-A disponibilidade de áudio para janelas e telas depende do navegador e da versão do Windows.
+A disponibilidade de áudio para janelas e telas pode variar conforme o navegador e a versão do Windows.
 
----
-
-## 🔊 Áudio e microfone
-
-No aplicativo para Windows, o TelaLink pode capturar o áudio geral do computador mesmo quando apenas uma janela é selecionada.
-
-O áudio do computador e o microfone podem ser ativados ou desativados separadamente.
-
-Se nenhum microfone estiver disponível, estiver ocupado ou a permissão for negada, a transmissão pode continuar normalmente sem ele.
-
----
-
-## 👥 Espectadores e chat
-
-Cada transmissão possui recursos próprios para os participantes:
-
-- Chat temporário
-- Lista de pessoas assistindo
-- Controle de volume
-- Tela cheia
-- Reprodução diretamente no navegador
-
-As mensagens do chat são temporárias e existem apenas durante a sessão da transmissão.
-
----
-
-## 🔄 Atualizações
-
-O TelaLink verifica a compatibilidade da versão utilizada com os servidores.
-
-Versões antigas podem receber uma atualização obrigatória antes de iniciar novas transmissões ou vincular dispositivos.
-
-No TelaLink 1.0.0, também é possível acessar:
-
-**Configurações → Sobre → Procurar atualizações**
-
-O histórico público de mudanças pode ser acompanhado em:
-
-[https://telalink.fun/updates](https://telalink.fun/updates)
-
----
-
-## 🤖 Discord
-
-O TelaLink possui integração com Discord para facilitar o uso e a publicação de transmissões.
-
-O bot oferece comandos para recursos como:
-
-- Informações do TelaLink
-- Transmissões
-- Vinculação
-- Configuração
-- Publicação automática
-- Status do serviço
-- Histórico de updates
-
----
-
-## 💻 Requisitos
+## Requisitos
 
 ### Aplicativo
 
 - Windows 10 ou Windows 11
 - Conexão com a internet
 
-### Viewer
+### Espectador
 
 - Navegador moderno
 - Conexão com a internet
 - Nenhuma instalação necessária
 
----
+## Atualizações
 
-## 🔐 Contas
+O TelaLink verifica a compatibilidade da versão em uso com os servidores.
 
-O TelaLink permite entrar utilizando:
+Versões antigas podem exigir atualização antes de iniciar novas transmissões ou vincular dispositivos.
 
-- Discord
-- E-mail e senha
+No aplicativo:
 
-O cadastro por e-mail aceita provedores autorizados pelo serviço.
+`Configurações → Sobre → Procurar atualizações`
 
-Atualmente não há recuperação automática de senha por e-mail.
+O histórico público de mudanças está disponível em:
 
----
+**[telalink.fun/updates](https://telalink.fun/updates)**
 
-## 🛡️ Privacidade
+## Privacidade
 
-O TelaLink foi feito para transmitir a tela em tempo real.
-
-- O vídeo e o áudio não são armazenados pelo TelaLink
-- O espectador assiste pelo navegador
+- Vídeo e áudio não são armazenados pelo TelaLink
+- O espectador assiste diretamente pelo navegador
 - O chat da transmissão é temporário
 - Senhas de transmissão não são exibidas publicamente
 
----
+## Sobre este repositório
 
-## ✨ Sobre o TelaLink
+Este repositório existe somente para **distribuição pública do aplicativo e gerenciamento de releases**.
 
-O TelaLink foi criado para tornar o compartilhamento de tela entre amigos simples e rápido.
+O link abaixo sempre aponta para o arquivo da release mais recente:
 
-A ideia continua sendo:
-
-**abrir → compartilhar → enviar o link**
-
-Sem precisar configurar VPN, servidores ou processos complicados.
-
-Você pode transmitir pelo aplicativo para Windows ou diretamente pelo navegador.
+```text
+https://github.com/UserWhare/telalink-download/releases/latest/download/TelaLink-Windows-Portable.zip
+```
 
 ---
 
 <div align="center">
 
-**TelaLink 1.0.0**
+**abrir → compartilhar → enviar o link**
 
-[Site](https://telalink.fun) • [Updates](https://telalink.fun/updates) • [Releases](../../releases/latest)
+[Site](https://telalink.fun) • [Releases](../../releases) • [Updates](https://telalink.fun/updates)
 
 Made by **Skarzian**
 
